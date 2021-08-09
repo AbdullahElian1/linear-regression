@@ -1,1 +1,1 @@
-this project for educatinal purpose to prctice linear_regriossion and pandas
+this project for educatinal purpose to prctice linear_regriossion and pandas.
